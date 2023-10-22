@@ -1,0 +1,36 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  text-align: center;
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  padding: 60px;
+}
+
+.header h1 {
+  font-size: 2rem;
+}
+
+.content {
+  padding: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+.content h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.content p {
+  font-size: 1rem;
+  color: #666;
+}
